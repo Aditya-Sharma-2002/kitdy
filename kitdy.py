@@ -1,6 +1,6 @@
 from tkinter import *
 from tkinter import ttk
-from datetime import date,timedelta #datetime ady
+from datetime import date,timedelta #datetime ady w
 import datetime
 from plyer import notification
 import mysql.connector
